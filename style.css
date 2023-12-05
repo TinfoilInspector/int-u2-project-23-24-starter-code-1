@@ -1,19 +1,30 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
+    color: #28363D;
+    font-family: 
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: black;
+    color: #28363D;
     text-align: center;
-    background-color: white;
+    background-color: #FCFCEE;
 }
-
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color:#C4CDC1;
     text-align: center;
-    background-color: black;
+    background-color: #2F575D;
+}
+
+.HandSanitizer {
+  width: 400px
+}
+.Starbucks {
+    width: 400px
+}
+.SoldOut {
+  width: 400px
 }
